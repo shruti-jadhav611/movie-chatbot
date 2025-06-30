@@ -1,0 +1,5 @@
+node_modules/
+*.pkl
+backend/similarity.pkl
+backend/movies.pkl
+.env
